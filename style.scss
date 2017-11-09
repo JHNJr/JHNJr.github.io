@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 200%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -117,13 +117,13 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $purple;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $lightBlue;
 }
 ::selection {
   color: $black;
@@ -197,7 +197,7 @@ img {
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .site-description {
