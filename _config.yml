@@ -9,6 +9,7 @@ name: John the Spacemarine
 description: I live happily in my Rhino tank
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://orig00.deviantart.net/dd0f/f/2014/214/e/b/dark_angle_by_ameeeeba-d7tc1e9.jpg
+ size: 50%; 
 
 #
 # Flags below are optional
