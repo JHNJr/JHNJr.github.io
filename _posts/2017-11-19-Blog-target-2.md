@@ -1,5 +1,5 @@
 ---
-title: Blog target 2
+title: Targetsheet 2
 layout: post
 author: john.nickless
 permalink: /blog-target-2/
@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <td>Title </td>
     <td>Learning Scratch</td>
-    <td>Date</td>
+    <td> Date </td>
     <td>14/11/17</td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have done the main part of space invaders quicker so then I would have more time to spend on the editing.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I need to add some more details to my scratch project.</td>
     <td></td>
   </tr>
 </table>
