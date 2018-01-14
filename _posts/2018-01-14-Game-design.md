@@ -3,22 +3,68 @@ title: Game design
 layout: post
 author: john.nickless
 permalink: /game-design/
-source-id: 1eG2NDcspN7FSvWH6qbtmKQNt-1GRXnZdNDCqkXbRaew
+source-id: 1uSKfJZhj4Oo6H_3k7U7oGSGBlOVRGW__H_VRPgWVxUQ
 published: true
 ---
-Game design
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Game design</td>
+    <td>Date</td>
+    <td>9/1/18</td>
+  </tr>
+</table>
 
-Today in ICT I found out that we were going to be doing a games design course where we were going to plan and make a game from scratch in Scratch. I am doing a game about an alien invasion where you have to kill the aliens before they reach the base. This is my game design. 
 
-Base defender
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>Game design sheet</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? </td>
+    <td>Yes but I had to change my idea.</td>
+  </tr>
+</table>
 
-This game will be a shooting game where the player has to stop the aliens from getting to the base. There will be the possibility for player to buy new shooters from the shop with in game coins. You will get coins for shooting aliens and tougher aliens will get more points.
 
-I will need 5 sprites initially and then more for extra figures.
+<table>
+  <tr>
+    <td>How did you use your learning habits this week?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Persevering</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>Questioning?</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>Independence</td>
+    <td>I wrote the plan by myself.</td>
+  </tr>
+  <tr>
+    <td>Reflecting</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>Engagement</td>
+    <td>I put forward some suggestions in class</td>
+  </tr>
+  <tr>
+    <td>What changes do you need to make to improve your learning next time?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>I will need to think whether my idea is possible before writing it</td>
+    <td></td>
+  </tr>
+</table>
 
-This game will be aimed for children aged 3+.
-
-I look forward to sharing it with you
-
-Johnthespacewolf
 
