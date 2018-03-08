@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Problem solving</td>
+    <td>Litebot</td>
     <td>Date</td>
-    <td>27/2/18</td>
+    <td>6/2/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Heard of Google blockly games</td>
+    <td>Played Litebot before but forgotten answers</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>Complete level 10</td>
+    <td>Target for the lesson:</td>
+    <td>Finish Litebot</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>No but I got close</td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -51,7 +51,7 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I used my previous knowledge to fix the that the programme aroused</td>
+    <td>I used my previous knowledge to fix the problems that the programme put up against me</td>
   </tr>
   <tr>
     <td>Engagement</td>
